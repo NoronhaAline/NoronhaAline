@@ -8,7 +8,7 @@ I work as a data scientist developing statistical models, studies and policies t
   
 ## Tools & languages
 * Data collection: SQL, SQLite, MySQL
-* Data processing and analysis: Python (Numpy, Pandas), Excel, SAS, Spark
+* Data processing and analysis: Python (Numpy, Pandas), Excel (VBA), SAS, Spark
 * Data visualisation: Tablau, Power BI
 * Cloud computing: AWS
 
