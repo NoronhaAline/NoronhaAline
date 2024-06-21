@@ -1,16 +1,18 @@
 ## Hi there 👋
+I work as a data scientist developing statistical models, studies and policies to solve business problems in the credit area.
 
-<!--
-**NoronhaAline/NoronhaAline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+* PhD in nuclear Physics - Instituto Tecnológico de Aeronáutica (ITA) - in progress
+* Master's Degree in nuclear Physics - Instituto Tecnológico de Aeronáutica (ITA)
+* Bachelor’s degree in Physics - Universidade Estadual Paulista (UNESP)
+  
+## Tools & languages
+* Data collection: SQL, SQLite, MySQL
+* Data processing and analysis: Python (Numpy, Pandas), Excel, SAS, Spark
+* Data visualisation: Tablau, Power BI
+* Cloud computing: AWS
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other info
+- 👯 I’m looking to collaborate on challenging data science jobs
+- 📫 How to reach me: alinecnoronha2@gmail.com
+- ⚡ Fun fact: I like reading fiction books
